@@ -1,0 +1,28 @@
+body{
+margin-top:70px;
+background:black;
+color:white;
+text-align:center;
+}
+
+.main{
+text-align:center;
+background:#0d0d0d;
+width:340px;
+margin:30px 470px;
+padding: 2px 5px;
+
+}
+
+.btn{
+display:block;
+}
+
+.btn2{
+padding: 10px 31px;
+border-radius:8px;
+}
+
+.smooth{
+color:black;
+}
